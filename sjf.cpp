@@ -75,7 +75,6 @@ int main()
     
     atat=(sum*1.0)/p;
     
-    cout<<"\n--------------------------------------------------------";
     cout<<"\nProcess\t\tCBT\tWaiting Time\tTurn Around Time";
     cout<<"\n--------------------------------------------------------\n";
     
