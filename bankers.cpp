@@ -3,11 +3,6 @@ using namespace std;
 
 int main()
 {
- /*Visit - www.programmingwithbasics.com*/
-   
-    cout<<"=====================================";
-    cout<<"\nVisit - www.programmingwithbasics.com";
-    cout<<"\n=====================================";
   
   int p, i, j, sum=0, min, index;
     float awt=0, atat=0;
@@ -76,8 +71,6 @@ int main()
     
     atat=(sum*1.0)/p;
     
-    cout<<"\n--------------------------------------------------------";
-    cout<<"\nProcess\t\tCBT\tWaiting Time\tTurn Around Time";
     cout<<"\n--------------------------------------------------------\n";
     
     for(i=0; i<p; i++)
